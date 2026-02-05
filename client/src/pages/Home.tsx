@@ -261,7 +261,7 @@ export default function Home() {
       {/* Home Section */}
       <section
         id="home"
-        className="min-h-screen py-12 pb-8 relative overflow-hidden bg-card"
+        className="pt-24 pb-12 relative overflow-hidden bg-card"
       >
         <div className="container relative z-10">
           <div className="grid lg:grid-cols-[2fr_1fr] gap-12 items-center">
@@ -316,7 +316,7 @@ export default function Home() {
       </section>
 
       {/* Education Section */}
-      <section id="education" className="py-12 diagonal-clip bg-card relative -mt-12 pt-8">
+      <section id="education" className="py-16 diagonal-clip bg-card relative -mt-12">
         <div className="container">
           <h2 className="text-4xl font-bold mb-2 mono uppercase tracking-wider">
             <span className="text-muted-foreground text-2xl">01.</span> Education
