@@ -703,8 +703,8 @@ export default function Home() {
               Get a comprehensive overview of my experience, skills, and education.
             </p>
             <a
-              href="/resume.pdf"
-              download="Janya_Mali_Resume.pdf"
+              href="/Janya_Mali_SWE_Resume.pdf"
+              download="/Janya_Mali_SWE_Resume.pdf"
               className="inline-flex items-center px-4 py-2 text-sm mono uppercase tracking-wider bg-background hover:bg-background border-4 border-border hover:border-[var(--accent-hover)] heavy-shadow text-foreground hover:text-[var(--accent-hover)] transition-colors"
             >
               <Download className="w-5 h-5 mr-2" />
