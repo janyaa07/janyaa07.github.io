@@ -282,7 +282,7 @@ export default function Home() {
                     <span className="mono text-sm">LinkedIn</span>
                   </a>
                   <a
-                    href="mailto:janya_mali@mymail.sutd.edu.sg"
+                    href="mailto:janyamali07@gmail.com"
                     className="inline-flex items-center gap-2 px-4 py-2 bg-secondary border-2 border-border hover:border-[var(--accent-hover)] transition-colors"
                   >
                     <Mail className="w-5 h-5" />
@@ -316,7 +316,7 @@ export default function Home() {
       </section>
 
       {/* Education Section */}
-      <section id="education" className="py-20 diagonal-clip bg-card relative -mt-12 pt-24">
+      <section id="education" className="py-12 diagonal-clip bg-card relative -mt-12 pt-24">
         <div className="container">
           <h2 className="text-4xl font-bold mb-2 mono uppercase tracking-wider">
             <span className="text-muted-foreground text-2xl">01.</span> Education
